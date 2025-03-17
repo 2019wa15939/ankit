@@ -1,13 +1,2 @@
-<<<<<<< HEAD
-Amar is good boy
-
-ankit is a good boy
-=======
-Amar is good boy 
-
-jhutha sala
-hi all
->>>>>>> 259ec3f6f7388a46fc1931f571a000e7c5762432
-
-
+clean all text.
 
